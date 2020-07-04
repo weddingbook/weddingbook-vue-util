@@ -1,6 +1,6 @@
 {
-	"name": "weddingbook-vue-util",
-	"version": "0.1.0",
+	"name": "@weddingbook/vue-util",
+	"version": "1.0.3",
 	"private": false,
 	"scripts": {
 		"serve": "vue-cli-service serve",
